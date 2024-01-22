@@ -34,15 +34,22 @@ I used the following inclass activities as the foundation of my code:
 UADEL-VIRT-DATA-PT-12-2023-U-LOLC04-Data-Analysis-Pandas2Activities06-Ins_GroupBy
 UADEL-VIRT-DATA-PT-12-2023-U-LOLC04-Data-Analysis-Pandas2Activities07-Par_Census_GroupBy
 
+Data Sources: University of Adelaide. (2023). UADEL-VIRT-DATA-PT-12-2023-U-LOLC. Git Repository. https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-12-2023-U-LOLC/-/tree/main/04-Data-Analysis-Pandas/2/Activities/06-Ins_GroupBy/Unsolved?ref_type=heads
+
+University of Adelaide. (2023). UADEL-VIRT-DATA-PT-12-2023-U-LOLC. Git Repository. https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-12-2023-U-LOLC/-/tree/main/04-Data-Analysis-Pandas/2/Activities/07-Par_Census_GroupBy?ref_type=heads
+
+
 
 I then scheduled a tutoring session with Justin to trouble shoot and debug as the figures I was getting were not reconciling to the dataset and the table was displaying figures in brackets. He helped me debug and showed me how to use the lambda function to remove the brackets. Justin also helped me use a 'passing hurdle' to calculate the pass rates (maths & reading) and overall pass rate.
 
 **Top Performing Schools (By % Overall Passing)/
 Bottom Performing Schools (By % Overall Passing)**
 
-
+I used the following inclass activities as the foundation of my code:
 UADEL-VIRT-DATA-PT-12-2023-U-LOLC04-Data-Analysis-Pandas2Activities08-Ins_Sorting
 
+
+Data Source: Vermont Agency of Administration, Department of Taxes. Meals and Rooms Tax Statistics (2020 Multiple Periods Update, Calendar Year). https://tax.vermont.gov/data-and-statistics/mrt
 
 I was able to leverage the code from lesson 2 activity 8 to use for the top performing and bottom performing schools. With the assistance of ChatGPT to debug, I was successful in developing.
 
@@ -54,12 +61,20 @@ I asked BCS assistance for help on Maths Score and Reading Score by year. I felt
 
 I was able to complete this was the assistance of chatGPT.
 
+_Code for creating a pivot table with average math scores by school and year.
+Original code source: OpenAI GPT-3 model via ChatGPT._
 
 
 **Scores by School Spending/
 Scores by School Size/
 Scores by School Type**
 
-I used the following class activity as my starter code: UADEL-VIRT-DATA-PT-12-2023-U-LOLC04-Data-Analysis-Pandas3Activities04-Stu_MovieRatings_Binning.
+I used the following class activity as my starter code: 
+
+
+UADEL-VIRT-DATA-PT-12-2023-U-LOLC04-Data-Analysis-Pandas3Activities04-Stu_MovieRatings_Binning.
+
+
+Source FiveThirtyEight (2015). https://github.com/fivethirtyeight/data/tree/master/fandango
 
 Justin and I in our tutor session were able to leverage this and apply to the dataset to use the bins as required (school spending, school size, and school type).
