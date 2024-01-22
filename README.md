@@ -22,6 +22,48 @@ The average math score for independent schools 71.4 (compared with 69.8 for gove
 
 Independent schools sampled in the data set on average had fewer number of students. It is therefore a reasonable assertion that size of school has a more favourable impact on student performance than spending per student.
 
+**Results Output**
+
+**Local Government Area Summary**
+![image](https://github.com/L-Tren/Data-assignment-week4-pandas-challenge/assets/150787223/5c2d8251-9754-4a75-a53e-39b96ae88ca4)
+
+
+**School Summary**
+
+![image](https://github.com/L-Tren/Data-assignment-week4-pandas-challenge/assets/150787223/e6003dc1-553f-4385-bbf3-030bbeeb230d)
+
+
+**Top Performing Schools (By % Overall Passing)**
+
+![image](https://github.com/L-Tren/Data-assignment-week4-pandas-challenge/assets/150787223/20c74970-a735-41a6-b428-7d9d01e4a7a1)
+
+**Bottom Performing Schools (By % Overall Passing)**
+
+![image](https://github.com/L-Tren/Data-assignment-week4-pandas-challenge/assets/150787223/7e167862-bda3-4acf-b0b2-fd2a1be2ada2)
+
+**Math Score by year**
+
+![image](https://github.com/L-Tren/Data-assignment-week4-pandas-challenge/assets/150787223/c534902b-b558-4961-bfbd-30728db245ca)
+
+**Reading Score by year**
+
+![image](https://github.com/L-Tren/Data-assignment-week4-pandas-challenge/assets/150787223/da5f21c3-385c-4af9-a8dd-dfe1c00dc6cc)
+
+
+**Scores by school spending**
+
+![image](https://github.com/L-Tren/Data-assignment-week4-pandas-challenge/assets/150787223/1a992999-e01f-4bbb-b0ab-46e5cc15250a)
+
+**Scores by School Size**
+
+![image](https://github.com/L-Tren/Data-assignment-week4-pandas-challenge/assets/150787223/b8970949-c922-4a72-a4ff-cf8146cc0d56)
+
+
+**Scores by School Type**
+
+![image](https://github.com/L-Tren/Data-assignment-week4-pandas-challenge/assets/150787223/ff6096fd-0aae-4fed-879b-ce1e6525075d)
+
+
 **Citing code sources**
 
 **Local Government Area Summary/
