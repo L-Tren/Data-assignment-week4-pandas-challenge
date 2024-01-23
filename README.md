@@ -104,7 +104,7 @@ I asked BCS assistance for help on Maths Score and Reading Score by year. I felt
 I was able to complete this was the assistance of chatGPT.
 
 _Code for creating a pivot table with average math scores by school and year.
-Original code source: OpenAI GPT-3 model via ChatGPT._
+OpenAI. (2024). ChatGPT (Jan 20 version) [Pivot table python coding]. https://chat.openai.com/chat
 
 
 **Scores by School Spending/
